@@ -1,0 +1,14 @@
+.date-time{
+    margin: 0px !important;
+}
+.start-100 {
+    left: 83%!important;
+}
+.bi-lightbulb-fill{
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* color: rgb(185, 255, 255); */
+    /* color: gold; */
+}
